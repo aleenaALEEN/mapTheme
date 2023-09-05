@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bgNav{
+    background-color: lightgray;
+}
+.colbcg{
+    height: 95vh;
+    width: 100%;
+    background-image: url(./images/hamburger.jpg);
+    background-size: 100% 100%;
+    display: flex;
+    align-items:flex-end;
+}
+.colbcg>p{
+    font-size: 50px;
+    margin-left: 20px;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 4px;
+}
+ul>li{
+    font-family:'Times New Roman', Times, serif;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+.about-img{
+    height: 90vh;
+    background-size: 100% 100%;
+    background-image: url(./images/tablesetting2.jpg);
+    /* border-radius: 5px; */
+}
+.col-about>p{
+    font-size: 45px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    letter-spacing: 4px;
+}
+.lists{
+    margin-left: 25%;
+}
+.about-para{
+    font-size: 21px;
+    margin-left: 34px;
+    font-family:'Times New Roman', Times, serif;
+}
+.sp1{
+    padding: 5px;
+    background-color: lightgray;
+}
+.para2{
+    color: gray;
+}
+.hr1{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+.bcg-menu{
+    height: 110vh;
+    background-size: 100% 100%;
+    background-image: url(./images/tablesetting.jpg);
+    border-radius: 5px;    
+}
+.col-menu>p{
+    font-size: 45px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    letter-spacing: 4px;
+}
+.menu-lists>li:nth-child(1){
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    letter-spacing: 5px;
+}
+.menu-lists>li:nth-child(2){
+    color: gray;
+    font-size: 19px;
+    margin-top: 15px;
+}
+.menu-lists>li:nth-child(3){
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    letter-spacing: 5px;
+    margin-top: 50px;
+}
+.menu-lists>li:nth-child(4){
+    color: gray;
+    font-size: 19px;
+    margin-top: 15px;
+}
+.menu-lists>li:nth-child(5){
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    letter-spacing: 5px;
+    margin-top: 50px;
+}
+.menu-lists>li:nth-child(6){
+    color: gray;
+    font-size: 19px;
+    margin-top: 15px;
+}
+.menu-lists>li:nth-child(7){
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    letter-spacing: 5px;
+    margin-top: 50px;
+}
+.menu-lists>li:nth-child(8){
+    color: gray;
+    font-size: 19px;
+    margin-top: 15px;
+}
+.menu-lists>li:nth-child(9){
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    letter-spacing: 5px;
+    margin-top: 50px;
+}
+.menu-lists>li:nth-child(10){
+    color: gray;
+    font-size: 19px;
+    margin-top: 15px;
+}
+.h2{
+    margin-top: 50px;
+}
+.hr2{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 100px;
+}
+.col-contact>p{
+    font-size: 45px;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 4px;
+}
+.para-ctc{
+    font-size: 19px;
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.h4-ctc{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(5, 79, 79);
+    margin-top: 20px;
+}
+.para2-ctc{
+    font-size: 19px;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+input{
+    width: 100%;
+    height: 10vh;
+    border:none;
+    padding-left: 20px;
+    border-bottom: 1px solid gray;
+}
+input::placeholder{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.inp2{
+    margin-top: 20px;
+}
+.inp3{
+    margin-top: 20px;
+}
+.inp3::placeholder{
+    color: black;
+}
+.inp4{
+    margin-top: 20px;
+}
+button{
+    margin-top: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding: 12px;
+    letter-spacing: 2px;
+    border-style: none;
+}
+button:hover{
+    background-color: gray;
+}
+.col-footer{
+    height: 20vh;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.f-sp{
+    text-decoration: underline;
+}
+.f-sp:hover{
+    color: green;
+}
