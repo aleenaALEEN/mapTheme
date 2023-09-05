@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mapTheme/static/css/main.6255076a.css",
+    "main.js": "/mapTheme/static/js/main.a44a1be7.js",
+    "static/media/hamburger.jpg": "/mapTheme/static/media/hamburger.300dd093a187195c5883.jpg",
+    "static/media/tablesetting.jpg": "/mapTheme/static/media/tablesetting.a72da3cc51e0cc4db6d2.jpg",
+    "static/media/tablesetting2.jpg": "/mapTheme/static/media/tablesetting2.ab0b5834d17daa7669cd.jpg",
+    "index.html": "/mapTheme/index.html",
+    "main.6255076a.css.map": "/mapTheme/static/css/main.6255076a.css.map",
+    "main.a44a1be7.js.map": "/mapTheme/static/js/main.a44a1be7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6255076a.css",
+    "static/js/main.a44a1be7.js"
+  ]
+}
